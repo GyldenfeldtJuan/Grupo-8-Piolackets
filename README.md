@@ -15,8 +15,11 @@ La audiencia objetivo serán todas las personas de todas las edades que tengan g
     
     Estudiante de Administración, 23 años, Su principal motivación en este sitio web es que es fanático de la música y los conciertos
     
+- Juan Ignacio Gyldenfeldt:
 
-
+    Estudié 3 años una tecnicatura en diseño de imagen,sonido y multimedia, antes de encaminarme a la programación. Disfruto mirar series y películas, jugar videojuegos, leer
+    comics, libros y novelas graficas y de vez en cuando organizar sesiones de Dungeons & Dragons con mis amigos. Ademas de esto soy un gran fanático de Star Wars.
+    
 - Páginas de referencia
     
     [Livepass | Venta de Tickets](https://www.livepass.com.ar/)
